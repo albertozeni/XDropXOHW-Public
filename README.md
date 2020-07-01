@@ -24,11 +24,11 @@ Vitis Version: 2019.2							<br />
 
 ## Project Organization
 
+The seqan folder contains the Seqan library <br />
+The report of the development of PALADIN is in report/ <br />
 Source files are in the src/ folder: <br />
 * xdrop.cpp contains the kernel
 * host.cpp contains the host
-The seqan folder contains the Seqan library <br />
-The report of the development of PALADIN is in report/ <br />
 
 ## Project Description
 <p align="justify">
