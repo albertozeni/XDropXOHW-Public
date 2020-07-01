@@ -1,0 +1,7 @@
+.DS_Store
+.run/
+*.log
+v++*
+_x.*
+.Xil*
+build_dir.sw_emu.*
